@@ -23,7 +23,7 @@ private; findings about the hosted service are in scope and should be reported t
 - Whether it is reproducible, and against which network and contract addresses
 - Anything you already know about impact
 
-Please do not run tests against other people's funds or against mainnet deployments. Base Sepolia is
+Please do not run tests against other people's funds. Production on Base Mainnet moves real money - test against Base Sepolia, which is
 free, and a testnet reproduction is worth exactly as much to us.
 
 ## What we will do

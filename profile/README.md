@@ -12,4 +12,4 @@ custody, no balances, no accounts.
 | [sdk-js](https://github.com/P2Flux/sdk-js) | JavaScript/TypeScript client |
 | [sdk-php](https://github.com/P2Flux/sdk-php) | PHP client |
 
-Currently on Base Sepolia.
+Live on Base Mainnet (chain 8453) with USDC; a full test environment runs on Base Sepolia. Docs: https://p2flux.com/docs/
