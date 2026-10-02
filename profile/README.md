@@ -17,5 +17,6 @@ and the fee is split out on chain.
 | [laravel](https://github.com/P2Flux/laravel) | Laravel integration |
 | [woocommerce](https://github.com/P2Flux/woocommerce) | WooCommerce plugin, on WordPress.org |
 | [mcp](https://github.com/P2Flux/mcp) | MCP server: lets an AI assistant pay for web content (x402) |
+| [agent-paywall](https://github.com/P2Flux/agent-paywall) | WordPress plugin: sell pages, files and APIs to AI agents (x402) |
 
 Live on Base Mainnet (chain 8453) with USDC; a full test environment runs on Base Sepolia. Docs: https://p2flux.com/docs/
